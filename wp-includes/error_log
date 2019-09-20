@@ -1,0 +1,30 @@
+[27-Nov-2017 11:44:01 Etc/GMT] PHP Fatal error:  Class 'Walker' not found in /home/kaizen/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[02-Jan-2018 21:06:29 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/session.php on line 8
+[10-Jan-2018 08:29:07 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[10-Jan-2018 08:46:06 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[17-Jan-2018 08:46:52 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[19-Jan-2018 16:07:17 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[24-Jan-2018 08:51:22 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[07-Feb-2018 09:01:07 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[14-Feb-2018 09:06:07 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[21-Feb-2018 09:11:30 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[28-Feb-2018 09:17:11 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[07-Mar-2018 09:20:57 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[07-Mar-2018 09:20:57 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[14-Mar-2018 09:27:26 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[14-Mar-2018 22:32:46 Etc/GMT] PHP Fatal error:  Class 'Walker' not found in /home/kaizen/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[21-Mar-2018 09:31:24 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[23-Mar-2018 07:32:23 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/locale.php on line 10
+[28-Mar-2018 09:35:41 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[04-Apr-2018 09:41:25 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[11-Apr-2018 09:46:24 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[18-Apr-2018 09:51:24 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[25-Apr-2018 09:56:06 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[02-May-2018 10:00:39 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[09-May-2018 10:08:24 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[16-May-2018 10:12:51 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[23-May-2018 10:18:07 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[23-May-2018 10:18:07 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[30-May-2018 10:22:47 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[06-Jun-2018 10:27:49 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[19-Nov-2018 19:32:06 Etc/GMT] PHP Fatal error:  Call to undefined function is_robots() in /home/kaizen/public_html/wp-includes/template-loader.php on line 28

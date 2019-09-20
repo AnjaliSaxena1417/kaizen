@@ -1,0 +1,5 @@
+[27-Nov-2017 11:44:01 Etc/GMT] PHP Fatal error:  Class 'Walker' not found in /home/kaizen/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[02-Jan-2018 21:06:29 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/session.php on line 8
+[10-Jan-2018 08:29:07 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[10-Jan-2018 08:46:06 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8
+[17-Jan-2018 08:46:52 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kaizen/public_html/wp-includes/rss-functions.php on line 8

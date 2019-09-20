@@ -1,0 +1,7 @@
+[11-Feb-2018 00:40:59 Etc/GMT] PHP Fatal error:  Call to undefined function post_class() in /home/kaizen/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[23-Nov-2018 06:05:09 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/kaizen/public_html/wp-includes/theme-compat/embed.php on line 13
+[23-Nov-2018 07:56:20 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/kaizen/public_html/wp-includes/theme-compat/embed.php on line 13
+[23-Nov-2018 08:03:20 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/kaizen/public_html/wp-includes/theme-compat/embed.php on line 13
+[23-Nov-2018 09:10:13 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/kaizen/public_html/wp-includes/theme-compat/embed.php on line 13
+[23-Nov-2018 13:50:17 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/kaizen/public_html/wp-includes/theme-compat/embed.php on line 13
+[23-Nov-2018 13:52:34 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/kaizen/public_html/wp-includes/theme-compat/embed.php on line 13
